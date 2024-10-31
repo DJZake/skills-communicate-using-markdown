@@ -14,3 +14,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] I Wanna get Karma Points
+- [ ] I am not lazy
+- [x] I am lazy
